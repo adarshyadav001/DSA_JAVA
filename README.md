@@ -6,10 +6,12 @@ My LeetCode solutions — synced automatically by LeetSync
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adarshyadav001/DSA_JAVA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/adarshyadav001/DSA_JAVA/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adarshyadav001/DSA_JAVA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/adarshyadav001/DSA_JAVA/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
