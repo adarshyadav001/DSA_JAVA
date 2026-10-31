@@ -28,10 +28,12 @@ My LeetCode solutions — synced automatically by LeetSync
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/adarshyadav001/DSA_JAVA/tree/master/0877-stone-game) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/adarshyadav001/DSA_JAVA/tree/master/0877-stone-game) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Minimax
 |  |
 | ------- |
