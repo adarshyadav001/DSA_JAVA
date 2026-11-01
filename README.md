@@ -8,6 +8,7 @@ My LeetCode solutions — synced automatically by LeetSync
 | ------- |
 | [0001-two-sum](https://github.com/adarshyadav001/DSA_JAVA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/adarshyadav001/DSA_JAVA/tree/master/0217-contains-duplicate) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/adarshyadav001/DSA_JAVA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0877-stone-game](https://github.com/adarshyadav001/DSA_JAVA/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ My LeetCode solutions — synced automatically by LeetSync
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/adarshyadav001/DSA_JAVA/tree/master/0009-palindrome-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/adarshyadav001/DSA_JAVA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0877-stone-game](https://github.com/adarshyadav001/DSA_JAVA/tree/master/0877-stone-game) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Dynamic Programming
