@@ -11,6 +11,7 @@ My LeetCode solutions — synced automatically by LeetSync
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adarshyadav001/DSA_JAVA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adarshyadav001/DSA_JAVA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0877-stone-game](https://github.com/adarshyadav001/DSA_JAVA/tree/master/0877-stone-game) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ My LeetCode solutions — synced automatically by LeetSync
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adarshyadav001/DSA_JAVA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adarshyadav001/DSA_JAVA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0877-stone-game](https://github.com/adarshyadav001/DSA_JAVA/tree/master/0877-stone-game) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Dynamic Programming
 |  |
