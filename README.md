@@ -12,6 +12,7 @@ My LeetCode solutions — synced automatically by LeetSync
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adarshyadav001/DSA_JAVA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0877-stone-game](https://github.com/adarshyadav001/DSA_JAVA/tree/master/0877-stone-game) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/adarshyadav001/DSA_JAVA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/adarshyadav001/DSA_JAVA/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
@@ -20,6 +21,7 @@ My LeetCode solutions — synced automatically by LeetSync
 | [0001-two-sum](https://github.com/adarshyadav001/DSA_JAVA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/adarshyadav001/DSA_JAVA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adarshyadav001/DSA_JAVA/tree/master/0242-valid-anagram) |
+| [2747-count-zero-request-servers](https://github.com/adarshyadav001/DSA_JAVA/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sorting
 |  |
@@ -28,6 +30,7 @@ My LeetCode solutions — synced automatically by LeetSync
 | [0242-valid-anagram](https://github.com/adarshyadav001/DSA_JAVA/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adarshyadav001/DSA_JAVA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/adarshyadav001/DSA_JAVA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/adarshyadav001/DSA_JAVA/tree/master/2747-count-zero-request-servers) |
 ## String
 |  |
 | ------- |
@@ -63,6 +66,7 @@ My LeetCode solutions — synced automatically by LeetSync
 ## Sliding Window
 |  |
 | ------- |
+| [2747-count-zero-request-servers](https://github.com/adarshyadav001/DSA_JAVA/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Heap (Priority Queue)
 |  |
