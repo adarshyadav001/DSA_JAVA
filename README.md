@@ -12,6 +12,7 @@ My LeetCode solutions — synced automatically by LeetSync
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adarshyadav001/DSA_JAVA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0877-stone-game](https://github.com/adarshyadav001/DSA_JAVA/tree/master/0877-stone-game) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/adarshyadav001/DSA_JAVA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/adarshyadav001/DSA_JAVA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2747-count-zero-request-servers](https://github.com/adarshyadav001/DSA_JAVA/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -71,6 +72,7 @@ My LeetCode solutions — synced automatically by LeetSync
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/adarshyadav001/DSA_JAVA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Two Pointers
 |  |
@@ -80,4 +82,12 @@ My LeetCode solutions — synced automatically by LeetSync
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/adarshyadav001/DSA_JAVA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Simulation
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/adarshyadav001/DSA_JAVA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/adarshyadav001/DSA_JAVA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
