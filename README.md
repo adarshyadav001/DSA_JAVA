@@ -15,6 +15,7 @@ My LeetCode solutions — synced automatically by LeetSync
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/adarshyadav001/DSA_JAVA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/adarshyadav001/DSA_JAVA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/adarshyadav001/DSA_JAVA/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
@@ -34,6 +35,7 @@ My LeetCode solutions — synced automatically by LeetSync
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/adarshyadav001/DSA_JAVA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/adarshyadav001/DSA_JAVA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/adarshyadav001/DSA_JAVA/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## String
 |  |
 | ------- |
@@ -53,6 +55,7 @@ My LeetCode solutions — synced automatically by LeetSync
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/adarshyadav001/DSA_JAVA/tree/master/0877-stone-game) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Minimax
