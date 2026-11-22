@@ -40,6 +40,7 @@ My LeetCode solutions — synced automatically by LeetSync
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/adarshyadav001/DSA_JAVA/tree/master/0242-valid-anagram) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/adarshyadav001/DSA_JAVA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/adarshyadav001/DSA_JAVA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Math
 |  |
