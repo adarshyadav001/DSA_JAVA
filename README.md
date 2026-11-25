@@ -19,6 +19,7 @@ My LeetCode solutions — synced automatically by LeetSync
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3934-smallest-unique-subarray](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ My LeetCode solutions — synced automatically by LeetSync
 | [0242-valid-anagram](https://github.com/adarshyadav001/DSA_JAVA/tree/master/0242-valid-anagram) |
 | [2747-count-zero-request-servers](https://github.com/adarshyadav001/DSA_JAVA/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3934-smallest-unique-subarray](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -91,6 +93,7 @@ My LeetCode solutions — synced automatically by LeetSync
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/adarshyadav001/DSA_JAVA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3934-smallest-unique-subarray](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3934-smallest-unique-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -115,4 +118,16 @@ My LeetCode solutions — synced automatically by LeetSync
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/adarshyadav001/DSA_JAVA/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
