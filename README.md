@@ -20,6 +20,7 @@ My LeetCode solutions — synced automatically by LeetSync
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3934-smallest-unique-subarray](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ My LeetCode solutions — synced automatically by LeetSync
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3857-minimum-cost-to-split-into-ones) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Minimax
 |  |
 | ------- |
@@ -108,6 +110,7 @@ My LeetCode solutions — synced automatically by LeetSync
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/adarshyadav001/DSA_JAVA/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/adarshyadav001/DSA_JAVA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Design
 |  |
 | ------- |
